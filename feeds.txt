@@ -1,6 +1,7 @@
 https://www.ohthatremindsme.com/feed.xml
-https://twitchrss.appspot.com/vod/madjad_
-https://twitchrss.appspot.com/vod/koldamar
-https://twitchrss.appspot.com/vod/siinfps
-https://twitchrss.appspot.com/vod/strimp2
-https://twitchrss.appspot.com/vod/yurjaded
+https://twitchrss.appspot.com/vod/madjad_#McKenzie
+https://twitchrss.appspot.com/vod/koldamar #Nick
+https://twitchrss.appspot.com/vod/siinfps #John
+https://twitchrss.appspot.com/vod/strimp2 #?
+https://twitchrss.appspot.com/vod/yurjaded #Jade
+https://twitchrss.appspot.com/vod/its_just_katie #Katie
